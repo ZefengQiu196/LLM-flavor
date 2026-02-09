@@ -1,4 +1,4 @@
-# Streamlit LLM Flavor Demo
+# Streamlit LLM E-cig Image Featuer Extractor Demo
 
 Streamlit app that extracts product features from vape/cannabis packaging images using the OpenAI API.
 URL:https://llm-flavor.streamlit.app/
