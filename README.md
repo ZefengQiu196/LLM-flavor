@@ -1,4 +1,4 @@
-# Streamlit LLM E-cig Image Featuer Extractor Demo
+# Streamlit LLM E-cig Image Feature Extractor Demo
 
 Streamlit app that extracts product features from vape/cannabis packaging images using the OpenAI API.
 URL:https://llm-flavor.streamlit.app/
@@ -16,4 +16,4 @@ streamlit run app.py
 3. Select your repo, branch, and set the main file to `app.py`.
 4. Click Deploy.
 
-After deploy, open the app URL and enter your OpenAI API key in the sidebar.
+After deployment, open the app URL and enter your OpenAI API key in the sidebar.
